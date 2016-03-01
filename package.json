@@ -1,13 +1,11 @@
 {
-  "name": "workflow",
+  "name": "My workflow",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Ravi Rajendran <me@ravirajendran.fr>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ravichandrane/my-workflow.git"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "angular": "^1.5.0",
     "angular-route": "^1.5.0",
